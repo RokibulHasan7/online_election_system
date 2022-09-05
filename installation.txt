@@ -1,0 +1,10 @@
+Create a database "online_election_system"
+
+import online_election_system.sql file from phpmyadmin
+
+
+
+ADMIN LOGIN DETAILS
+URL: localhost/online_voting/admin
+USER NAME: admin@example.com
+PASSWORD: admin
